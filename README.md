@@ -1,19 +1,19 @@
-##Introduction to Probability and Statistics##
+# Introduction to Probability and Statistics
 
-BMI XXXXX
+### BMI XXXXX
 
-Instructors
+### Instructors
 
 •	Edgar Javier Hernandez, Ph.D.: edgarjavi@gmail.com
 
-Prerequisite
+### Prerequisite
 BMI Introduction to Programming (Python)
 
-Course Description
+### Course Description
 
 This course offers an introduction to an extensive array of methods for mathematical data analysis with emphasis on three major topics (probability analysis, statistical inference, and the basic concepts of statistical pattern recognition through machine learning), with a clear emphasis in the biomedical field. In here we will cover basic probability concepts such as recognizing the importance of the analysis of random events in real life applications, using probabilities axioms and rules. This course will present descriptive and inferential data methods for predictive analysis on samples and populations.  This introductory course lays the foundation for more advance classes offered at the Biomedical Informatics Department. As an additional component of this class will be the extensive use of the statistical software R which is one of the most used statistical packages in most fields. 
 
-Text Books: 
+### Text Books: 
 
 •	Introduction to Probability and Statistics Using R (2010 - https://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf ), Kerns, Jay. 
 •	Think Bayes (2012 - http://www.greenteapress.com/thinkbayes/thinkbayes.pdf ), Downey, Allen. (both freely available online). 
@@ -39,11 +39,11 @@ The skills we will be focusing on include:
 •	Proposing adequate statistical methods for specific clinical cases. 
 •	Programming statistical analysis using R
 
-Course Schedule:
+### Course Schedule:
 
-1.	Introduction to the course
-2.	Working with R
-3.	Probability fundamentals
+* 1.	Introduction to the course
+* 2.	Working with R
+* 3.	Probability fundamentals
 4.	Exploratory Data Analysis
 5.	Bayes’ rule
 6.	Probability functions

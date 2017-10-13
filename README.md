@@ -59,4 +59,3 @@ Course Schedule:
 16.	Information Theory
 17.	Introduction to Machine learning
 18.	Case studies
-nohup bcftools concat randomAN_1.vcf.gz randomAN_2.vcf.gz randomAN_3.vcf.gz randomAN_4.vcf.gz randomAN_5.vcf.gz randomAN_6.vcf.gz randomAN_7.vcf.gz randomAN_8.vcf.gz randomAN_9.vcf.gz randomAN_10.vcf.gz randomAN_11.vcf.gz randomAN_12.vcf.gz randomAN_13.vcf.gz randomAN_14.vcf.gz randomAN_15.vcf.gz randomAN_16.vcf.gz randomAN_17.vcf.gz randomAN_18.vcf.gz randomAN_19.vcf.gz randomAN_20.vcf.gz randomAN_21.vcf.gz randomAN_22.vcf.gz randomAN_X.vcf.gz -o randomAN2.vcf.gz -Oz &

@@ -27,7 +27,7 @@ The University of Utah's subscription to the Safari Technical Books Online has a
 •	Probability and Statistics for Computer Scientists (2015) Baron
 •	Probability and Statistics (2015) Rukmangadachari & Reddy
 
-Learning Objectives:
+### Learning Objectives:
 1.	* By the end of this course, you will understand basic probability concepts, use probability rules, distinguish between discrete and continuous variables and the methods for their analysis, and solve problems related to random events.
 2.	* By the end of the course, you will be able to describe the main methods for data exploration and analysis. You will use descriptive statistics to understand the nature of your data, and you will use hypothesis testing to predict the behavior of variables from samples and populations. 
 3.	* By the end of the course, you will understand the concepts of machine learning and pattern recognition, such as cluster recognition, data classification, dimensionality reduction, and temporal patterns.

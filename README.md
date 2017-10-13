@@ -35,7 +35,7 @@ The University of Utah's subscription to the Safari Technical Books Online has a
 
 ### Course Schedule:
 
-1. * Introduction to the course
+1. **Introduction to the course**
 2. * Working with R
 3. * Probability fundamentals
 4. * Exploratory Data Analysis

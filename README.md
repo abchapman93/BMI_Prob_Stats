@@ -1,6 +1,6 @@
-Introduction to Probability and Statistics
+#Introduction to Probability and Statistics#
 
-BMI XXXXX
+##BMI XXXXX##
 
 Instructors
 

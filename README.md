@@ -28,34 +28,28 @@ The University of Utah's subscription to the Safari Technical Books Online has a
 •	Probability and Statistics (2015) Rukmangadachari & Reddy
 
 Learning Objectives:
-1.	By the end of this course, you will understand basic probability concepts, use probability rules, distinguish between discrete and continuous variables and the methods for their analysis, and solve problems related to random events.
-2.	By the end of the course, you will be able to describe the main methods for data exploration and analysis. You will use descriptive statistics to understand the nature of your data, and you will use hypothesis testing to predict the behavior of variables from samples and populations. 
-3.	By the end of the course, you will understand the concepts of machine learning and pattern recognition, such as cluster recognition, data classification, dimensionality reduction, and temporal patterns.
-4.	By the end of the course, you will have experience with of the most widely use statistical software in the sciences, R. You will be able to use many of the statistical and graphical packages available for this software.
-The skills we will be focusing on include:
-•	Identifying and explaining the characteristics of discrete and continuous variables. 
-•	Distinguishing the various methods used to predict random events. 
-•	Comparing inferential statistical methods, existing tools, and terminological resources. 
-•	Proposing adequate statistical methods for specific clinical cases. 
-•	Programming statistical analysis using R
+1.	* By the end of this course, you will understand basic probability concepts, use probability rules, distinguish between discrete and continuous variables and the methods for their analysis, and solve problems related to random events.
+2.	* By the end of the course, you will be able to describe the main methods for data exploration and analysis. You will use descriptive statistics to understand the nature of your data, and you will use hypothesis testing to predict the behavior of variables from samples and populations. 
+3.	* By the end of the course, you will understand the concepts of machine learning and pattern recognition, such as cluster recognition, data classification, dimensionality reduction, and temporal patterns.
+4.	* By the end of the course, you will have experience with of the most widely use statistical software in the sciences, R. You will be able to use many of the statistical and graphical packages available for this software.
 
 ### Course Schedule:
 
-* 1.	Introduction to the course
-* 2.	Working with R
-* 3.	Probability fundamentals
-4.	Exploratory Data Analysis
-5.	Bayes’ rule
-6.	Probability functions
-7.	Probability Distributions
-8.	Hypothesis testing
-9.	Visualization tools for hypothesis testing
-10.	Linear regression and correlation
-11.	Discrete estimation, contingency tables, exact test
-12.	Clustering
-13.	Boostrap
-14.	Survival Analysis
-15.	Bayesian inference
-16.	Information Theory
-17.	Introduction to Machine learning
-18.	Case studies
+1. * Introduction to the course
+2. * Working with R
+3. * Probability fundamentals
+4. * Exploratory Data Analysis
+5.	* Bayes’ rule
+6.	* Probability functions
+7.	* Probability Distributions
+8.	* Hypothesis testing
+9.	* Visualization tools for hypothesis testing
+10.	* Linear regression and correlation
+11.	* Discrete estimation, contingency tables, exact test
+12.	* Clustering
+13.	* Boostrap
+14.	* Survival Analysis
+15.	* Bayesian inference
+16.	* Information Theory
+17.	* Introduction to Machine learning
+18.	* Case studies
